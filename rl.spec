@@ -1,5 +1,5 @@
 Summary:	rl - Randomize Lines
-Summary(pl.UTF-8)	rl - Losowe linie
+Summary(pl.UTF-8):	rl - Losowe linie
 Name:		rl
 Version:	0.2.6
 Release:	1
