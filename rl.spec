@@ -1,5 +1,5 @@
-Summary:	A command-line tool
-Summary(pl.UTF-8):Narzędzie linii poleceń
+Summary:	rl - Randomize Lines
+Summary(pl.UTF-8)	rl - Losowanie linie
 Name:		rl
 Version:	0.2.6
 Release:	1
@@ -17,7 +17,7 @@ rl is a command-line tool that reads lines from an input file or
 stdin, randomizes the lines and outputs a specified number of lines.
 
 %description -l pl.UTF-8
-rl jest narzędziem linii poleceń, które czyta linijki z pliku lub
+rl jest narzędziem linii poleceń, które czyta linie z pliku lub
 standardowego wejścia i wypisuje określoną ich ilość w losowej
 kolejności.
 
