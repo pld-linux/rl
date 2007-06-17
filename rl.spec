@@ -1,5 +1,5 @@
 Summary:	rl - Randomize Lines
-Summary(pl.UTF-8):	rl - Losowe linie
+Summary(pl.UTF-8):	rl - Losowanie kolejności linii
 Name:		rl
 Version:	0.2.6
 Release:	1
@@ -18,7 +18,7 @@ stdin, randomizes the lines and outputs a specified number of lines.
 
 %description -l pl.UTF-8
 rl jest narzędziem linii poleceń, które czyta linie z pliku lub
-standardowego wejścia i wypisuje określoną ich ilość w losowej
+standardowego wejścia i wypisuje określoną ich liczbę w losowej
 kolejności.
 
 %prep
