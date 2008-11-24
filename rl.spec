@@ -1,12 +1,12 @@
 Summary:	rl - Randomize Lines
 Summary(pl.UTF-8):	rl - Losowanie kolejności linii
 Name:		rl
-Version:	0.2.6
+Version:	0.2.7
 Release:	1
 License:	GPL v2+
 Group:		Applications
 Source0:	http://ch.tudelft.nl/~arthur/rl/%{name}-%{version}.tar.gz
-# Source0-md5:	5505b1ff129ac95fa2a27ee4073d81e4
+# Source0-md5:	ed2e6c81a0524653203e0be8fa511eae
 URL:		http://ch.tudelft.nl/~arthur/rl/
 BuildRequires:	autoconf
 BuildRequires:	automake
